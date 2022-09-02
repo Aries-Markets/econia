@@ -3,7 +3,7 @@ name = 'Econia'
 version = '2.0.6' # Per SemVer
 
 [addresses]
-econia = '0x967b5aebffe4c96bb035825b21be28c281c84ddadd9a2ad3cfc55049d6aeba6a'
+econia = '0xba9dc1be4f5afacf8e695c0611d8d761d9188bffd2d5b1d77470eaeaa2250512'
 # Mock users for unit tests
 user = '0x1234'
 user_0 = '0x2345'
