@@ -4,7 +4,7 @@ version = '3.0.0' # Per SemVer
 upgrade_policy = 'compatible'
 
 [addresses]
-econia = '0xf65e213b21092d8b07b200cac464123afb90a5da7534a1ebd3a37b1547649c60'
+econia = '0xd44603e9e831eed8b6bd00604680eaf3e72b3874c9d0a4442b8d68500497075c'
 # Mock users for unit tests
 user = '0x1234'
 user_0 = '0x2345'
@@ -15,4 +15,4 @@ user_3 = '0x5678'
 [dependencies.AptosFramework]
 git = 'https://github.com/aptos-labs/aptos-core'
 subdir = 'aptos-move/framework/aptos-framework'
-rev = '23896f357ed5810744842a528e8060dd1200894b'
+rev = '8399cd1c7b9662d3a6a09c28363c5f66f0839c41'
