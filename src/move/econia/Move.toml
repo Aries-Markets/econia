@@ -4,7 +4,7 @@ version = '3.0.0' # Per SemVer
 upgrade_policy = 'compatible'
 
 [addresses]
-econia = '0x2acb8f957ab03c3ec5b3a996402b54989cf1cb5697eef5ca8bf88e72b7706390'
+econia = '0xb332d62c312ddd0d1f9b326c55b6f13b84280e3d9fbb4a95c862f86049439c3f'
 # Mock users for unit tests
 user = '0x1234'
 user_0 = '0x2345'
